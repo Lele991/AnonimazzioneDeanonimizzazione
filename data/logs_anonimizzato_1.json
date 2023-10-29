@@ -1,0 +1,131 @@
+[[
+    "17\/11\/2022 15:31",
+    "Giuseppe Verdi",
+    "-",
+    "Corso: Programmazione [21-22]",
+    "Log",
+    "Visualizzazione report log",
+    "The user with id '7' viewed the log report for the course with id '850'.",
+    "web",
+    "192.168.100.218"
+],[
+    "17\/11\/2022 15:31",
+    "Giuseppe Verdi",
+    "-",
+    "Corso: Programmazione [21-22]",
+    "Sistema",
+    "Visualizzazione corso",
+    "The user with id '7' viewed the course with id '850'.",
+    "web",
+    "192.168.100.218"
+],[
+    "14\/11\/2022 19:54",
+    "mario rossi",
+    "-",
+    "Corso: Programmazione [21-22]",
+    "Sistema",
+    "Visualizzazione corso",
+    "The user with id '7588' viewed the course with id '850'.",
+    "web",
+    "93.45.210.76"
+],[
+    "13\/11\/2022 22:10",
+    "mario rossi",
+    "-",
+    "Corso: Programmazione [21-22]",
+    "Sistema",
+    "Visualizzazione corso",
+    "The user with id '7588' viewed the course with id '850'.",
+    "web",
+    "93.45.210.76"
+],[
+    "11\/11\/2022 00:14",
+    "alessandro bianchi",
+    "-",
+    "File: Specifica Progetto \"Gioco della Battaglia Navale",
+    "Risorsa",
+    "Visualizzazione modulo corso",
+    "The user with id '5831' viewed the 'resource' activity with course module id '37103'.",
+    "web",
+    "79.18.214.136"
+],[
+    "10\/11\/2022 15:29",
+    "luca cupone",
+    "-",
+    "Corso: Programmazione [21-22]",
+    "Sistema",
+    "Visualizzazione corso",
+    "The user with id '2312' viewed the course with id '850'.",
+    "web",
+    "192.168.104.23"
+],[
+    "9\/11\/2022 23:14",
+    "mario rossi",
+    "-",
+    "Corso: Programmazione [21-22]",
+    "Sistema",
+    "Visualizzazione corso",
+    "The user with id '7588' viewed the course with id '850'.",
+    "web",
+    "93.45.210.76"
+],[
+    "8\/11\/2022 18:27",
+    "francesco canna",
+    "-",
+    "Corso: Programmazione [21-22]",
+    "Sistema",
+    "Visualizzazione corso",
+    "The user with id '2416' viewed the course with id '850'.",
+    "web",
+    "77.39.165.144"
+],[
+    "7\/11\/2022 10:58",
+    "luca cupone",
+    "-",
+    "Corso: Programmazione [21-22]",
+    "Sistema",
+    "Visualizzazione corso",
+    "The user with id '2312' viewed the course with id '850'.",
+    "web",
+    "87.1.147.130"
+],[
+    "6\/11\/2022 16:55",
+    "marco surru",
+    "-",
+    "Pagina: 25.10.2021 - ISI - Programmazione - I anno",
+    "Pagina",
+    "Visualizzazione modulo corso",
+    "The user with id '2447' viewed the 'page' activity with course module id '35038'.",
+    "web",
+    "79.26.97.26"
+],[
+    "6\/11\/2022 16:55",
+    "marco surru",
+    "-",
+    "Corso: Programmazione [21-22]",
+    "Sistema",
+    "Visualizzazione corso",
+    "The user with id '2447' viewed the course with id '850'.",
+    "web",
+    "79.26.97.26"
+],[
+    "5\/11\/2022 19:49",
+    "Giuseppe Verdi",
+    "-",
+    "Pagina: 15.12.2021 - ISI - Programmazione - I anno",
+    "Pagina",
+    "Visualizzazione modulo corso",
+    "The user with id '7' viewed the 'page' activity with course module id '37187'.",
+    "web",
+    "78.152.104.89"
+],[
+    "27\/07\/2021 14:30",
+    "Elle Admin",
+    "-",
+    "Corso: Programmazione [21-22]",
+    "Sistema",
+    "Creazione corso",
+    "The user with id '2' created the course with id '850'.",
+    "web",
+    "192.168.12.48"
+]]
